@@ -1,0 +1,24 @@
+
+.message{
+    margin-top: 5px;
+    border: solid;
+    border-color: silver;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    position: relative;
+    width: 1000px;
+    height: auto;
+    display: flex;
+    justify-content: start;
+    overflow: auto;
+    margin-left: 16%;
+}
+
+
+.messageAvatar{
+    border-radius: 100%;
+    border: solid;
+    border-color: silver;
+    height: 55px;
+    width: 55px;
+}

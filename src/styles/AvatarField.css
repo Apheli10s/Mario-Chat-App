@@ -1,0 +1,21 @@
+.leftAvatar{
+  border-radius: 10px;
+  border-color: silver;
+  border-width: 5px;
+  margin-left: 42%;
+  ;
+}
+
+.rightAvatar {
+  border-radius: 10px;
+  border-color: silver;
+  border-width: 5px;
+  width: 68.66px;
+  text-align: center;
+}
+
+.imageAvatar {
+  border-radius: 100%;
+  border: solid;
+  border-color: silver
+}
